@@ -17,11 +17,11 @@ The dataset contains 561 features derived from accelerometer and gyroscope senso
 ## File Structure
 ```
 Assignment-6/
-├── README.md                    # Project documentation
-├── starter_notebook.ipynb       # Main Jupyter notebook with assignments
+├── README.md               # Project documentation
+├── starter_notebook.ipynb  # Main Jupyter notebook with assignments
 └── data/
-    ├── train.csv               # Training dataset (sensor features + activity labels)
-    └── test.csv                # Test dataset (sensor features + activity labels)
+    ├── train.csv           # Training dataset (sensor features + activity labels)
+    └── test.csv            # Test dataset (sensor features + activity labels)
 ```
 
 ## Prerequisites
